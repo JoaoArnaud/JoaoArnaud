@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl0OTZpaHF3dTExNjlndTliZnIweTBoY3J0dTZrdjQ2M2hyZDV4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="250px" alt="cute cat gif"/>
+</div>
+
 <h1 align="center">👋 Olá! Eu sou o João André</h1>
 
 <p align="center">
@@ -53,6 +57,14 @@ Sou movido por curiosidade e gosto de entender como as coisas funcionam, especia
 - Deploy de modelos com **Docker** e **FastAPI**
 - Boas práticas de **Clean Code** e **estruturas de projeto**
 - Técnicas avançadas de **modelagem preditiva**
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoArnaud&show_icons=true&theme=github_dark&hide_border=false&count_private=true&hide_title=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArnaud&layout=compact&theme=github_dark&hide_border=false" height="180px"/>
+</div>
 
 ---
 
