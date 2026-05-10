@@ -1,38 +1,70 @@
-<h2 align="left">Hi 👋! My name is João André</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
+  <h1>João Arnaud</h1>
+
+  <p>
+    <strong>Data Science & AI student building clean, practical software for real-world problems.</strong>
+  </p>
+
+  <p>
+    AI · Software Engineering · Web Development · Automation · Cloud
+  </p>
+
+  <p>
+    <a href="mailto:joaoandrema@gmail.com">
+      <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/joaoarnaud">
+      <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
 </div>
 
-###
+---
+
+### About
+
+I'm a Data Science and Artificial Intelligence student focused on becoming a stronger engineer through consistent study, practical projects, and product-minded execution.
+
+I care about building systems that are useful, maintainable, and ready to solve business problems, from SaaS products and internal tools to automations and AI-powered workflows.
+
+### Current Focus
+
+- Building portfolio projects with a professional, international standard
+- Deepening my foundations in AI, machine learning, and software engineering
+- Creating SaaS, automation, and business-oriented solutions
+- Improving the way I design, ship, and communicate technical work
+
+### Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/vandrepv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/vandrehzin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:joaoandrema@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joaoarnaud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,nestjs,laravel,php,prisma,postgres,docker,git,linux&theme=dark" alt="Python, TypeScript, JavaScript, Next.js, NestJS, Laravel, PHP, Prisma, PostgreSQL, Docker, Git and Linux" />
+
+</div>
+
+### What I'm Interested In
+
+| Area | Direction |
+| --- | --- |
+| AI & ML | Models, applied intelligence, and useful AI workflows |
+| Web Systems | Full-stack products, APIs, dashboards, and SaaS platforms |
+| Automation | Process optimization, integrations, and business efficiency |
+| Engineering | Clean architecture, reliable backends, and scalable systems |
+
+---
+
+<div align="center">
+
+  <p>
+    <strong>Ambitious by design. Technical by discipline. Always evolving.</strong>
+  </p>
+
+  <p>
+    <a href="mailto:joaoandrema@gmail.com">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/joaoarnaud">LinkedIn</a>
+  </p>
+
 </div>
